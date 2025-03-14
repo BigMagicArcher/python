@@ -1,0 +1,3 @@
+print(Ale dziś fajnie)
+
+
